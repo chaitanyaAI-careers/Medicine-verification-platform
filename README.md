@@ -124,3 +124,15 @@ The following are potential extensions and are **not implemented** in this repos
 - Containerized local development and deployment (Docker).
 - Authentication/authorization on API endpoints.
 - Expanded matching logic (fuzzy matching, partial name search).
+
+---
+
+## Portfolio Context
+
+Medicine Verification Platform is the portfolio's primary project for **backend/API engineering, typed service boundaries, and verification workflows**.
+
+**Chaitanya Sai — Applied AI Engineer**
+
+Generative AI · LLMs · RAG · Agentic AI · AI Platform & Backend Engineering
+
+[Portfolio](https://chaitanya-sai-portfolio.vercel.app) · [GitHub](https://github.com/chaitanyaAI-careers) · [LinkedIn](https://www.linkedin.com/in/chaitanyaai-careers/)
