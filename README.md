@@ -1,3 +1,5 @@
+![Project header](docs/branding/readme-header.png)
+
 # Medicine Verification Platform
 
 A small backend service that demonstrates a layered FastAPI application — API, service, and data-access boundaries — through a medicine-verification use case backed by synthetic data.
