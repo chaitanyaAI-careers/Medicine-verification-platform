@@ -34,6 +34,10 @@ Client → FastAPI routes (app.py)
 
 This is a portfolio showcase: the synthetic data source and in-memory repository intentionally represent the integration and persistence boundaries without exposing or overstating capabilities that are outside the scope of this public repository.
 
+![Medicine Verification Platform evidence-aware architecture](docs/architecture/medicine-verification-platform-architecture.png)
+
+---
+
 ## Implemented Capabilities
 
 - REST API built with FastAPI, including a health endpoint and a POST endpoint with a typed response model.
