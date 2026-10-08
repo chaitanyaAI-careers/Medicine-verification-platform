@@ -1,6 +1,6 @@
 ![Project header](docs/branding/readme-header.png)
 
-# Medicine Verification Platform
+# Medicine Verification Service
 
 A small backend service that demonstrates a layered FastAPI application — API, service, and data-access boundaries — through a medicine-verification use case backed by synthetic data.
 
@@ -36,7 +36,7 @@ Client → FastAPI routes (app.py)
 
 This is a portfolio showcase: the synthetic data source and in-memory repository intentionally represent the integration and persistence boundaries without exposing or overstating capabilities that are outside the scope of this public repository.
 
-![Medicine Verification Platform evidence-aware architecture](docs/architecture/medicine-verification-platform-architecture.png)
+![Medicine Verification Service evidence-aware architecture](docs/architecture/medicine-verification-platform-architecture.png)
 
 ---
 
@@ -135,7 +135,7 @@ The following are potential extensions and are **not implemented** in this repos
 
 ## Portfolio Context
 
-Medicine Verification Platform is the portfolio's primary project for **backend/API engineering, typed service boundaries, and verification workflows**.
+Medicine Verification Service is the portfolio's primary project for **backend/API engineering, typed service boundaries, and verification workflows**.
 
 **Chaitanya Sai — Applied AI Engineer**
 
